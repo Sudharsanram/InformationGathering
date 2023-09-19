@@ -1,4 +1,4 @@
-![267842976-9a657cbd-42b5-43f9-bdc1-238e27e2afc5](https://github.com/Sudharsanram/InformationGathering/assets/119393980/0fae89a5-1d34-4f76-a995-ab126cd4b3e5)# InformationGathering
+# InformationGathering
 Information Gathering Techiques
 
 # To perform information gathering techniques
